@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+[Лабораторная работа 3](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр3.docx.pdf)
 
-You can use the [editor on GitHub](https://github.com/VexelB/prog1year/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Лабораторная работа 4](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр4%20(1).docx.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Лабораторная работа 5](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр5.docx.pdf)
 
-### Markdown
+[Лабораторная работа 6](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр6.docx.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Лабораторная работа 7](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр7.docx.pdf)
 
-```markdown
-Syntax highlighted code block
+[Лабораторная работа 8](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр8.docx.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+[Лабораторная работа 9](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр9.docx.pdf)
 
-- Bulleted
-- List
+[Лабораторная работа 10](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр10.docx.pdf)
 
-1. Numbered
-2. List
+[Лабораторная работа 11](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр11.docx.pdf)
 
-**Bold** and _Italic_ and `Code` text
+[Лабораторная работа 12](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр12.docx.pdf)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VexelB/prog1year/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Лабораторная работа 13](https://github.com/VexelB/prog1year/blob/main/Войтин%201ИВТ%20лр13.docx.pdf)
